@@ -25,6 +25,8 @@
 
 <script>
 import * as Game from "../models/Game";
+
+
 export default {
   name: 'Home',
   created(){

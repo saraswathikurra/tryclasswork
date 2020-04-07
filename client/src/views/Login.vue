@@ -32,6 +32,7 @@
 
 <script>
 import { Login } from "../models/Users";
+
 export default {
     data(){
         return {
@@ -54,4 +55,5 @@ export default {
 </script>
 
 <style>
+
 </style>

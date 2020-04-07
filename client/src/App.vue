@@ -7,6 +7,7 @@
 
 <script>
 import MyNav from "@/components/Nav.vue";
+
 export default {
   components: {
     MyNav
@@ -15,4 +16,5 @@ export default {
 </script>
 
 <style lang="scss">
+
 </style>
